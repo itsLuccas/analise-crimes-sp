@@ -39,6 +39,6 @@ Acurácia: 64%
 Aumento na performance de recall para o crime de assalto após balanceamento de dados.
 
 ```bash
-git clone https://github.com/its_Luccas/analise-crimes-sp
+git clone https://github.com/itsLuccas/analise-crimes-sp
 
 

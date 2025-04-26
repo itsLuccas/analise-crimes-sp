@@ -21,9 +21,6 @@ O projeto foi desenvolvido utilizando Python, e inclui os seguintes principais c
 
 Clone este repositório para o seu computador:
 
-```bash
-git clone https://github.com/SEU_USUARIO/seu-projeto.git
-
 Instale as dependências no seu ambiente Python:
 pip install -r requirements.txt
 
@@ -40,3 +37,8 @@ Resultados
 Acurácia: 64%
 
 Aumento na performance de recall para o crime de assalto após balanceamento de dados.
+
+```bash
+git clone https://github.com/its_Luccas/analise-crimes-sp
+
+
